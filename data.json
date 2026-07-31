@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/07/31 21:58",
+  "updatedAt": "2026/07/31 22:06",
   "slots": [
     {
       "facility": "VIALA箱根翡翠",
@@ -31,6 +31,21 @@
         "相互利用券"
       ],
       "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-08-19",
+      "status": "few",
+      "room": "ファミリー和洋室",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
     },
     {
       "facility": "VIALA鬼怒川渓翠",
@@ -78,6 +93,21 @@
         "相互利用券"
       ],
       "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-08-21",
+      "status": "few",
+      "room": "ペット対応洋室",
+      "pet": true,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 19100,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
     },
     {
       "facility": "VIALA鬼怒川渓翠",
