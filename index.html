@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f766e">
+  <title>VIALA 空室情報</title>
+  <style>
+    :root{color-scheme:light;--bg:#f3f7f6;--card:#fff;--ink:#18312e;--muted:#647773;--accent:#0f766e;--line:#dce8e5;--good:#087f5b}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP",sans-serif;line-height:1.65}
+    main{width:min(920px,calc(100% - 28px));margin:28px auto 64px}.hero{padding:28px;border-radius:24px;background:linear-gradient(135deg,#0f766e,#115e59);color:white;box-shadow:0 14px 35px rgba(15,118,110,.18)}
+    h1{margin:0 0 6px;font-size:clamp(25px,6vw,40px);line-height:1.25}.hero p{margin:0;opacity:.9}.summary{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:18px 0}
+    .metric,.card{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 5px 18px rgba(30,65,59,.05)}.metric{padding:17px}.metric span{display:block;color:var(--muted);font-size:13px}.metric strong{display:block;margin-top:3px;font-size:21px}
+    .card{padding:22px;margin-top:16px}.card h2{margin:0 0 14px;font-size:19px}.empty{text-align:center;padding:28px 12px}.empty .icon{font-size:42px}.empty strong{display:block;font-size:20px;margin:5px 0}.empty p{margin:0;color:var(--muted)}
+    .slot{padding:18px 0;border-top:1px solid var(--line)}.slot:first-child{border-top:0}.slot-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}.slot h3{margin:0;font-size:18px}.badge{white-space:nowrap;background:#e6fcf5;color:var(--good);font-weight:700;border-radius:999px;padding:4px 10px;font-size:13px}.details{margin:10px 0 0;padding:0;list-style:none;color:var(--muted);font-size:14px}.details b{color:var(--ink)}
+    footer{text-align:center;color:var(--muted);font-size:12px;margin-top:22px}.error{color:#b42318;background:#fff0ed;padding:12px 14px;border-radius:12px}
+    @media(max-width:650px){main{margin-top:14px}.hero{padding:23px 20px;border-radius:20px}.summary{grid-template-columns:1fr}.metric{display:flex;align-items:center;justify-content:space-between}.metric strong{margin:0;font-size:18px}.card{padding:18px}}
+  </style>
+</head>
+<body>
+<main>
+  <section class="hero">
+    <h1>今持っている券で予約可能なVIALA空室</h1>
+    <p>選択済み施設のうち、保有券で予約できる枠だけを表示します。</p>
+  </section>
+
+  <section class="summary" aria-label="概要">
+    <div class="metric"><span>最終更新</span><strong id="updated">読込中</strong></div>
+    <div class="metric"><span>保有券</span><strong id="tickets">読込中</strong></div>
+    <div class="metric"><span>予約可能枠</span><strong id="count">—</strong></div>
+  </section>
+
+  <section class="card">
+    <h2>空室一覧</h2>
+    <div id="results" aria-live="polite">読み込んでいます…</div>
+  </section>
+  <footer>予約状況は変動します。最終的な空室・料金は東急ハーヴェストクラブの予約画面で確認してください。</footer>
+</main>
+<script>
+const esc = (value='') => String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+const yen = n => Number.isFinite(n) ? new Intl.NumberFormat('ja-JP',{style:'currency',currency:'JPY',maximumFractionDigits:0}).format(n) : '—';
+
+fetch('./data.json', {cache:'no-store'})
+  .then(r => { if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+  .then(data => {
+    const slots = Array.isArray(data.slots) ? data.slots : [];
+    document.getElementById('updated').textContent = data.updatedAt || '不明';
+    document.getElementById('tickets').textContent = `${data.homeFacility || 'ホーム'} ${data.homeTickets ?? 0}枚／相互 ${data.mutualTickets ?? 0}枚`;
+    document.getElementById('count').textContent = `${slots.length}件`;
+    const root = document.getElementById('results');
+    if (!slots.length) {
+      root.innerHTML = '<div class="empty"><div class="icon">🌿</div><strong>現在、条件に合う空室はありません</strong><p>次回の更新後に新しい空室が表示されます。</p></div>';
+      return;
+    }
+    root.innerHTML = slots.map(x => `<article class="slot">
+      <div class="slot-head"><h3>${x.pet ? '🐶 ' : ''}${esc(x.facility)}｜${esc(x.date)}</h3><span class="badge">${x.status === 'few' ? '残りわずか' : '空室'}</span></div>
+      <ul class="details">
+        <li>部屋：<b>${esc(x.room)}</b></li>
+        <li>利用可能券：<b>${esc((x.usableTickets || []).join(' または '))}</b></li>
+        <li>相互利用料金：<b>${yen(x.mutualPriceYen)}</b></li>
+        <li>定員：標準${esc(x.standardCapacity ?? '—')}名／最大${esc(x.maxCapacity ?? '—')}名${x.areaSqm ? `・${esc(x.areaSqm)}㎡` : ''}</li>
+        <li>判定：${esc(x.notes || '通常日')}</li>
+      </ul>
+    </article>`).join('');
+  })
+  .catch(err => {
+    document.getElementById('results').innerHTML = `<div class="error">データを読み込めませんでした：${esc(err.message)}</div>`;
+    document.getElementById('updated').textContent = '取得失敗';
+  });
+</script>
+</body>
+</html>
