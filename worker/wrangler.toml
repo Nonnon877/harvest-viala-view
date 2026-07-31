@@ -1,0 +1,3 @@
+name = "harvest-viala-refresh"
+main = "src/index.js"
+compatibility_date = "2026-07-31"
