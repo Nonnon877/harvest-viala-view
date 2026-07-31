@@ -1,0 +1,14 @@
+{
+  "targetUrl": "https://my.harvestclub.com/myharvest/reservations/vacancy?viewMode=guest",
+  "navigationTimeoutMs": 60000,
+  "settleTimeMs": 5000,
+  "ticketInventory": {
+    "homeFacility": "南紀田辺",
+    "homeTickets": 4,
+    "mutualTickets": 1
+  },
+  "notificationFacilities": {
+    "include": ["箱根翡翠", "箱根湖悠", "熱海伊豆山", "軽井沢", "鬼怒川渓翠"],
+    "exclude": []
+  }
+}
