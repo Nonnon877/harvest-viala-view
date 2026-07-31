@@ -1,0 +1,1 @@
+window.HARVEST_REFRESH_ENDPOINT = '';
