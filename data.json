@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/07/31 21:28",
+  "updatedAt": "2026/07/31 21:30",
   "slots": [
     {
       "facility": "VIALA箱根湖悠",
@@ -456,6 +456,22 @@
       "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 19100,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "ホーム欄参照"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-09-02",
+      "status": "few",
+      "room": "デラックス洋室",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
