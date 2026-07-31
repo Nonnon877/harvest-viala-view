@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/07/31 13:49",
+  "updatedAt": "2026/07/31 13:58",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -701,21 +701,6 @@
       "maxCapacity": 4,
       "areaSqm": null,
       "mutualPriceYen": 19100,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間／ホーム欄参照"
-    },
-    {
-      "facility": "VIALA鬼怒川渓翠",
-      "date": "2026-08-07",
-      "status": "few",
-      "room": "デラックス洋室",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
       "usableTickets": [
         "相互利用券"
       ],
