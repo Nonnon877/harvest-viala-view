@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/07/31 13:58",
+  "updatedAt": "2026/07/31 14:07",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -141,6 +141,51 @@
       "date": "2026-08-03",
       "status": "few",
       "room": "ファミリースイート和洋室",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 33600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-03",
+      "status": "few",
+      "room": "creekシグスイート洋101㎡/1F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 101,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-03",
+      "status": "few",
+      "room": "creekシグスイート洋104㎡/2F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 104,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-03",
+      "status": "few",
+      "room": "gardenファミリースイート2階建",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 6,
@@ -416,21 +461,6 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 19500,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間／ホーム欄参照"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-08-05",
-      "status": "few",
-      "room": "ファミリー和洋室",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 31000,
       "usableTickets": [
         "相互利用券"
       ],
@@ -750,6 +780,21 @@
         "相互利用券"
       ],
       "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA箱根湖悠",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "デラックス和洋室",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
     },
     {
       "facility": "VIALA箱根翡翠",
@@ -1222,7 +1267,14 @@
         "南紀田辺ホーム券",
         "相互利用券"
       ],
-      "notes": "通常日"
+      "notes": "通常日",
+      "debug": {
+        "availabilitySource": "mutual_table",
+        "followHome": false,
+        "rawStatus": "△",
+        "mutualRawStatus": "△",
+        "bookingScope": "mutual"
+      }
     },
     {
       "facility": "VIALA箱根翡翠",
@@ -1238,7 +1290,14 @@
         "南紀田辺ホーム券",
         "相互利用券"
       ],
-      "notes": "通常日"
+      "notes": "通常日",
+      "debug": {
+        "availabilitySource": "mutual_table",
+        "followHome": false,
+        "rawStatus": "△",
+        "mutualRawStatus": "△",
+        "bookingScope": "mutual"
+      }
     },
     {
       "facility": "VIALA箱根翡翠",
@@ -1254,7 +1313,14 @@
         "南紀田辺ホーム券",
         "相互利用券"
       ],
-      "notes": "通常日"
+      "notes": "通常日",
+      "debug": {
+        "availabilitySource": "mutual_table",
+        "followHome": false,
+        "rawStatus": "△",
+        "mutualRawStatus": "△",
+        "bookingScope": "mutual"
+      }
     },
     {
       "facility": "VIALA箱根翡翠",
@@ -1270,7 +1336,14 @@
         "南紀田辺ホーム券",
         "相互利用券"
       ],
-      "notes": "通常日"
+      "notes": "通常日",
+      "debug": {
+        "availabilitySource": "mutual_table",
+        "followHome": false,
+        "rawStatus": "〇",
+        "mutualRawStatus": "〇",
+        "bookingScope": "mutual"
+      }
     },
     {
       "facility": "VIALA箱根翡翠",
@@ -1286,7 +1359,14 @@
         "南紀田辺ホーム券",
         "相互利用券"
       ],
-      "notes": "通常日"
+      "notes": "通常日",
+      "debug": {
+        "availabilitySource": "mutual_table",
+        "followHome": false,
+        "rawStatus": "△",
+        "mutualRawStatus": "△",
+        "bookingScope": "mutual"
+      }
     },
     {
       "facility": "VIALA箱根翡翠",
@@ -1302,7 +1382,14 @@
         "南紀田辺ホーム券",
         "相互利用券"
       ],
-      "notes": "通常日"
+      "notes": "通常日",
+      "debug": {
+        "availabilitySource": "mutual_table",
+        "followHome": false,
+        "rawStatus": "△",
+        "mutualRawStatus": "△",
+        "bookingScope": "mutual"
+      }
     },
     {
       "facility": "VIALA annex軽井沢",
