@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/08/01 00:36",
+  "updatedAt": "2026/08/01 02:53",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -692,6 +692,36 @@
       "notes": "夏季特定期間／ホーム欄参照"
     },
     {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-16",
+      "status": "few",
+      "room": "creekシグスイート洋101㎡/1F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 101,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-16",
+      "status": "few",
+      "room": "creekシグスイート洋104㎡/2F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 104,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
       "facility": "VIALA annex熱海伊豆山",
       "date": "2026-08-17",
       "status": "few",
@@ -705,6 +735,81 @@
         "相互利用券"
       ],
       "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-17",
+      "status": "few",
+      "room": "creekシグスイート洋101㎡/1F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 101,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-17",
+      "status": "few",
+      "room": "creekシグスイート洋104㎡/2F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 104,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-17",
+      "status": "few",
+      "room": "gardenファミリースイート2階建",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 33600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "creekデラックス洋室/1F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "gardenファミリースイート2階建",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 33600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
     },
     {
       "facility": "VIALA箱根湖悠",
@@ -736,6 +841,21 @@
         "相互利用券"
       ],
       "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-19",
+      "status": "few",
+      "room": "creekデラックス洋室/2F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
     },
     {
       "facility": "VIALA箱根翡翠",
@@ -4251,21 +4371,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-09-26",
-      "status": "few",
-      "room": "スイート洋室(露天)",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 41900,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "土曜日"
-    },
-    {
       "facility": "VIALA annex軽井沢",
       "date": "2026-09-27",
       "status": "few",
@@ -5324,22 +5429,6 @@
     {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-09-30",
-      "status": "few",
-      "room": "シグネチャースイート和洋室 117㎡",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": 117,
-      "mutualPriceYen": 41900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA鬼怒川渓翠",
-      "date": "2026-09-30",
       "status": "available",
       "room": "デラックス洋室",
       "pet": false,
@@ -5651,22 +5740,6 @@
       "maxCapacity": 4,
       "areaSqm": null,
       "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA鬼怒川渓翠",
-      "date": "2026-10-01",
-      "status": "few",
-      "room": "シグネチャースイート和洋室 117㎡",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": 117,
-      "mutualPriceYen": 41900,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
