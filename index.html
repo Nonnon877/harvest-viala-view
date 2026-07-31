@@ -11,10 +11,11 @@
     main{width:min(920px,calc(100% - 28px));margin:28px auto 64px}.hero{padding:28px;border-radius:24px;background:linear-gradient(135deg,#0f766e,#115e59);color:white;box-shadow:0 14px 35px rgba(15,118,110,.18)}
     h1{margin:0 0 6px;font-size:clamp(25px,6vw,40px);line-height:1.25}.hero p{margin:0;opacity:.9}.summary{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:18px 0}
     .metric,.card{background:var(--card);border:1px solid var(--line);border-radius:18px;box-shadow:0 5px 18px rgba(30,65,59,.05)}.metric{padding:17px}.metric span{display:block;color:var(--muted);font-size:13px}.metric strong{display:block;margin-top:3px;font-size:21px}
+    .actions{display:flex;gap:10px;flex-wrap:wrap;margin:16px 0}.button{appearance:none;border:0;border-radius:14px;padding:13px 18px;font:inherit;font-weight:700;text-decoration:none;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:7px}.button-primary{background:var(--accent);color:#fff}.button-secondary{background:#fff;color:var(--accent);border:1px solid var(--line)}.hint{margin:0 0 16px;color:var(--muted);font-size:13px}
     .card{padding:22px;margin-top:16px}.card h2{margin:0 0 14px;font-size:19px}.empty{text-align:center;padding:28px 12px}.empty .icon{font-size:42px}.empty strong{display:block;font-size:20px;margin:5px 0}.empty p{margin:0;color:var(--muted)}
     .slot{padding:18px 0;border-top:1px solid var(--line)}.slot:first-child{border-top:0}.slot-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}.slot h3{margin:0;font-size:18px}.badge{white-space:nowrap;background:#e6fcf5;color:var(--good);font-weight:700;border-radius:999px;padding:4px 10px;font-size:13px}.details{margin:10px 0 0;padding:0;list-style:none;color:var(--muted);font-size:14px}.details b{color:var(--ink)}
     footer{text-align:center;color:var(--muted);font-size:12px;margin-top:22px}.error{color:#b42318;background:#fff0ed;padding:12px 14px;border-radius:12px}
-    @media(max-width:650px){main{margin-top:14px}.hero{padding:23px 20px;border-radius:20px}.summary{grid-template-columns:1fr}.metric{display:flex;align-items:center;justify-content:space-between}.metric strong{margin:0;font-size:18px}.card{padding:18px}}
+    @media(max-width:650px){main{margin-top:14px}.hero{padding:23px 20px;border-radius:20px}.summary{grid-template-columns:1fr}.metric{display:flex;align-items:center;justify-content:space-between}.metric strong{margin:0;font-size:18px}.card{padding:18px}.actions{display:grid}.button{width:100%}}
   </style>
 </head>
 <body>
@@ -30,6 +31,12 @@
     <div class="metric"><span>予約可能枠</span><strong id="count">—</strong></div>
   </section>
 
+  <div class="actions">
+    <a class="button button-primary" href="https://github.com/Nonnon877/harvest-viala-watch/actions/workflows/probe.yml" target="_blank" rel="noopener">↻ 最新データを取得</a>
+    <button class="button button-secondary" type="button" onclick="location.reload()">ページを再読み込み</button>
+  </div>
+  <p class="hint">「最新データを取得」を押した先で、Run workflow → Run workflow を押してください。取得完了後、このページを再読み込みします。</p>
+
   <section class="card">
     <h2>空室一覧</h2>
     <div id="results" aria-live="polite">読み込んでいます…</div>
@@ -40,7 +47,7 @@
 const esc = (value='') => String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
 const yen = n => Number.isFinite(n) ? new Intl.NumberFormat('ja-JP',{style:'currency',currency:'JPY',maximumFractionDigits:0}).format(n) : '—';
 
-fetch('./data.json', {cache:'no-store'})
+fetch(`./data.json?t=${Date.now()}`, {cache:'no-store'})
   .then(r => { if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
   .then(data => {
     const slots = Array.isArray(data.slots) ? data.slots : [];
