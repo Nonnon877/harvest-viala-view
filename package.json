@@ -1,0 +1,13 @@
+{
+  "name": "harvest-viala-view",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "probe": "node src/probe.mjs",
+    "publish-data": "node src/publish-data.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.54.1"
+  }
+}
