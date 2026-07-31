@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026/07/31 14:41",
+  "updatedAt": "2026/07/31 14:59",
   "slots": [
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-17",
+      "status": "few",
+      "room": "ファミリースイート和洋室",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 33600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "ファミリースイート和洋室",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 33600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
     {
       "facility": "VIALA箱根湖悠",
       "date": "2026-08-18",
@@ -47,6 +77,66 @@
         "相互利用券"
       ],
       "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-08-20",
+      "status": "few",
+      "room": "デラックス和洋室",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-20",
+      "status": "few",
+      "room": "シグネチャースイート和洋室 117㎡",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": 117,
+      "mutualPriceYen": 41900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-23",
+      "status": "few",
+      "room": "ペット対応洋室 63㎡",
+      "pet": true,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": 63,
+      "mutualPriceYen": 19100,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "シグネチャースイート和洋室 152㎡",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": 152,
+      "mutualPriceYen": 49200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
     },
     {
       "facility": "VIALA鬼怒川渓翠",
@@ -118,6 +208,21 @@
       "maxCapacity": 4,
       "areaSqm": null,
       "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-26",
+      "status": "few",
+      "room": "ファミリースイート和洋室",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 33600,
       "usableTickets": [
         "相互利用券"
       ],
@@ -199,6 +304,36 @@
         "相互利用券"
       ],
       "notes": "通常日"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "シグネチャースイート和洋室 152㎡",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": 152,
+      "mutualPriceYen": 49200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "ペット対応洋室 63㎡",
+      "pet": true,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": 63,
+      "mutualPriceYen": 19100,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
     },
     {
       "facility": "VIALA箱根湖悠",
@@ -1101,6 +1236,22 @@
         "相互利用券"
       ],
       "notes": "ホーム欄参照"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-09-13",
+      "status": "few",
+      "room": "デラックス洋室",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
     },
     {
       "facility": "VIALA annex軽井沢",
