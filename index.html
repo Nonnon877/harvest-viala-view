@@ -8,6 +8,7 @@
 <body><main>
 <section class="hero"><h1>HVC券で予約可能なVIALA空室</h1><p>ホーム券または相互利用券で予約できる、最大2か月先までの空室を表示します。</p></section>
 <section class="summary"><div class="metric"><span>最終更新</span><strong id="updated">読込中</strong></div><div class="metric"><span id="countLabel">表示中の連泊候補</span><strong id="count">—</strong></div></section>
+<p id="staleWarning" class="status error" role="alert" style="display:none">公開データの最終更新から2時間以上経過しています。現在の予約画面で最新状況を確認してください。</p>
 <div class="actions"><button id="refresh" class="button primary" type="button">↻ 最新データを取得</button><button id="reload" class="button secondary" type="button">ページを再読み込み</button></div>
 <p class="hint">更新開始後は完了を自動確認し、新しいデータが公開されたらメッセージを表示して再読み込みします。</p>
 <div id="progressBox" class="progress-box" aria-live="polite"><div class="spinner" aria-hidden="true"></div><div class="progress-text"><strong>最新データを取得中</strong><span id="progressDetail">処理を開始しています…</span></div></div>
@@ -25,4 +26,24 @@
 <footer>予約状況は変動します。最終的な空室・料金・連泊可否は予約画面で確認してください。</footer>
 </main>
 <dialog id="completeDialog"><div class="dialog-body"><h2>更新が完了しました</h2><p id="completeMessage">最新の空室データを取得しました。</p><div class="dialog-actions"><button id="completeOk" class="button primary" type="button">最新情報を表示</button></div></div></dialog>
-<script src="./app.js"></script></body></html>
+<script src="./app.js"></script>
+<script>
+(async()=>{
+  const warning=document.getElementById('staleWarning');
+  try{
+    const response=await fetch(`./data.json?freshness=${Date.now()}`,{cache:'no-store'});
+    if(!response.ok)throw new Error(`HTTP ${response.status}`);
+    const data=await response.json();
+    const match=String(data.updatedAt||'').match(/^(\d{4})\/(\d{2})\/(\d{2})\s+(\d{2}):(\d{2})$/);
+    if(!match){warning.style.display='block';return;}
+    const [,year,month,day,hour,minute]=match;
+    const updatedMs=Date.parse(`${year}-${month}-${day}T${hour}:${minute}:00+09:00`);
+    const ageMs=Date.now()-updatedMs;
+    warning.style.display=Number.isFinite(updatedMs)&&ageMs<=2*60*60*1000?'none':'block';
+  }catch{
+    warning.textContent='公開データの更新時刻を確認できません。現在の予約画面で最新状況を確認してください。';
+    warning.style.display='block';
+  }
+})();
+</script>
+</body></html>
