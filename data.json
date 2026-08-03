@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/08/03 17:44",
+  "updatedAt": "2026/08/03 21:02",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -275,21 +275,6 @@
       "facility": "VIALA箱根翡翠",
       "date": "2026-08-04",
       "status": "few",
-      "room": "スタンダード洋室 [3] 標準 3名 / 最大 3名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 19500,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間／ホーム欄参照"
-    },
-    {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-08-04",
-      "status": "few",
       "room": "デラックス洋室(ビューバス) [3] 標準 3名 / 最大 3名",
       "pet": false,
       "standardCapacity": 3,
@@ -324,6 +309,21 @@
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA箱根湖悠",
+      "date": "2026-08-05",
+      "status": "few",
+      "room": "デラックス和洋室 [5] 標準 2名 / 最大 5名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 21200,
       "usableTickets": [
@@ -497,6 +497,21 @@
       "notes": "夏季特定期間／ホーム欄参照"
     },
     {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-08-16",
+      "status": "few",
+      "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
       "facility": "VIALA箱根翡翠",
       "date": "2026-08-16",
       "status": "few",
@@ -619,37 +634,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA箱根湖悠",
-      "date": "2026-08-23",
-      "status": "few",
-      "room": "デラックス洋室 [4]標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間"
-    },
-    {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-08-24",
-      "status": "few",
-      "room": "ファミリー和洋室 [6]標準 6名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 6,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 34700,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALA annex軽井沢",
       "date": "2026-08-25",
       "status": "few",
@@ -672,21 +656,6 @@
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-08-26",
-      "status": "few",
-      "room": "デラックス洋室 [3]標準 2名 / 最大 3名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 21200,
       "usableTickets": [
@@ -819,6 +788,22 @@
       "notes": "通常日"
     },
     {
+      "facility": "VIALA箱根翡翠",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "ユニバーサル洋室 [3]標準 3名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 18300,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
       "facility": "VIALA annex軽井沢",
       "date": "2026-08-31",
       "status": "few",
@@ -1677,22 +1662,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA annex軽井沢",
-      "date": "2026-09-06",
-      "status": "few",
-      "room": "デラックス和洋室 [5] 標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALA箱根翡翠",
       "date": "2026-09-06",
       "status": "few",
@@ -2358,38 +2327,6 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 18300,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA鬼怒川渓翠",
-      "date": "2026-09-11",
-      "status": "few",
-      "room": "デラックス洋室 [3-4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-09-11",
-      "status": "few",
-      "room": "スタンダード和洋室 [5] 標準 5名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 5,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 23900,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -3021,6 +2958,22 @@
       "notes": "通常日"
     },
     {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-09-23",
+      "status": "few",
+      "room": "デラックス洋室 [3-4]標準 2名 / 最大 4名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
       "facility": "VIALA箱根湖悠",
       "date": "2026-09-23",
       "status": "few",
@@ -3501,22 +3454,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA annex軽井沢",
-      "date": "2026-09-27",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6]標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-09-27",
       "status": "available",
@@ -3670,22 +3607,6 @@
       "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA annex軽井沢",
-      "date": "2026-09-28",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -4607,7 +4528,7 @@
     {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-10-01",
-      "status": "available",
+      "status": "few",
       "room": "デラックス洋室 [3-4] 標準 2名 / 最大 4名",
       "pet": false,
       "standardCapacity": 2,
@@ -4689,22 +4610,6 @@
       "date": "2026-10-01",
       "status": "few",
       "room": "デラックス洋室(ビューバス) [3] 標準 3名 / 最大 3名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 27000,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-10-01",
-      "status": "few",
-      "room": "デラックス洋室(露天) [3] 標準 3名 / 最大 3名",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 3,
