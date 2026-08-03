@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/08/03 21:22",
+  "updatedAt": "2026/08/03 21:26",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -3640,22 +3640,6 @@
       "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 31000,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA鬼怒川渓翠",
-      "date": "2026-09-28",
-      "status": "few",
-      "room": "シグネチャースイート和洋室 117㎡ [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": 117,
-      "mutualPriceYen": 41900,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
