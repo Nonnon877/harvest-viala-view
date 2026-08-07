@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/08/07 22:43",
+  "updatedAt": "2026/08/07 23:22",
   "slots": [
     {
       "facility": "VIALA箱根翡翠",
@@ -92,6 +92,21 @@
       "notes": "夏季特定期間／ホーム欄参照"
     },
     {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-17",
+      "status": "few",
+      "room": "creekシグスイート洋101㎡/1F[3] 標準 2名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 101,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
       "facility": "VIALA箱根翡翠",
       "date": "2026-08-17",
       "status": "few",
@@ -138,21 +153,6 @@
       "notes": "夏季特定期間／ホーム欄参照"
     },
     {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-08-18",
-      "status": "few",
-      "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間／ホーム欄参照"
-    },
-    {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-08-18",
       "status": "few",
@@ -177,6 +177,66 @@
       "maxCapacity": 5,
       "areaSqm": 82,
       "mutualPriceYen": 21800,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "creekシグスイート洋101㎡/1F[3] 標準 2名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 101,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "creekシグスイート洋104㎡/2F[3] 標準 2名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 104,
+      "mutualPriceYen": 39900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "creekデラックス洋室/1F [4] 標準 2名 / 最大 4名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間／ホーム欄参照"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-18",
+      "status": "few",
+      "room": "creekデラックス洋室/2F [5] 標準 2名 / 最大 5名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
       "usableTickets": [
         "相互利用券"
       ],
@@ -258,21 +318,6 @@
         "相互利用券"
       ],
       "notes": "通常日"
-    },
-    {
-      "facility": "VIALA箱根湖悠",
-      "date": "2026-08-21",
-      "status": "few",
-      "room": "デラックス和洋室 [5]標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間"
     },
     {
       "facility": "VIALA鬼怒川渓翠",
@@ -1288,12 +1333,12 @@
       "facility": "VIALA箱根翡翠",
       "date": "2026-09-05",
       "status": "few",
-      "room": "デラックス洋室(ビューバス) [3] 標準 3名 / 最大 3名",
+      "room": "スタンダード和洋室 [5] 標準 5名 / 最大 5名",
       "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 3,
+      "standardCapacity": 5,
+      "maxCapacity": 5,
       "areaSqm": null,
-      "mutualPriceYen": 27000,
+      "mutualPriceYen": 23900,
       "usableTickets": [
         "相互利用券"
       ],
@@ -1303,12 +1348,12 @@
       "facility": "VIALA箱根翡翠",
       "date": "2026-09-05",
       "status": "few",
-      "room": "デラックス和洋室(露天) [5] 標準 5名 / 最大 5名",
+      "room": "デラックス洋室(ビューバス) [3] 標準 3名 / 最大 3名",
       "pet": false,
-      "standardCapacity": 5,
-      "maxCapacity": 5,
+      "standardCapacity": 3,
+      "maxCapacity": 3,
       "areaSqm": null,
-      "mutualPriceYen": 31700,
+      "mutualPriceYen": 27000,
       "usableTickets": [
         "相互利用券"
       ],
