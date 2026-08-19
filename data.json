@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/08/19 22:13",
+  "updatedAt": "2026/08/19 23:01",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -3916,6 +3916,22 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 19500,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA箱根翡翠",
+      "date": "2026-09-25",
+      "status": "few",
+      "room": "スタンダード和洋室 [5] 標準 5名 / 最大 5名",
+      "pet": false,
+      "standardCapacity": 5,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 23900,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
