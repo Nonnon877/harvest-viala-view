@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/08/20 00:49",
+  "updatedAt": "2026/08/20 01:50",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -4314,6 +4314,22 @@
       "facility": "VIALA annex熱海伊豆山",
       "date": "2026-09-29",
       "status": "few",
+      "room": "デラックス洋室 [3] 標準 2名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-09-29",
+      "status": "few",
       "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
       "pet": false,
       "standardCapacity": 2,
@@ -8425,22 +8441,6 @@
       "maxCapacity": 3,
       "areaSqm": 104,
       "mutualPriceYen": 39900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA軽井沢 Retreat creek/garden",
-      "date": "2026-10-19",
-      "status": "few",
-      "room": "gardenデラックス平屋 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
