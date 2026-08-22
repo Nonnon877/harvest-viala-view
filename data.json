@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/08/23 3:52",
+  "updatedAt": "2026/08/23 4:40",
   "homeFacility": "南紀田辺ホーム券",
   "homeTickets": 4,
   "mutualTickets": 1,
@@ -80,6 +80,126 @@
       "notes": "夏季特定期間"
     },
     {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "VP:ペット対応ルーム",
+      "pet": true,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": null,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "デラックス和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-24",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
       "facility": "VIALA箱根湖悠",
       "date": "2026-08-24",
       "status": "few",
@@ -136,6 +256,96 @@
       "maxCapacity": 5,
       "areaSqm": 63,
       "mutualPriceYen": 19100,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-25",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-25",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-25",
+      "status": "available",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-25",
+      "status": "available",
+      "room": "デラックス和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-25",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-25",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "相互利用券"
       ],
@@ -251,12 +461,87 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-08-26",
       "status": "few",
-      "room": "creekデラックス洋室/2F",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-26",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-26",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-26",
+      "status": "few",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-26",
+      "status": "few",
+      "room": "デラックス和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 5,
       "areaSqm": null,
-      "mutualPriceYen": 21200,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-26",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "相互利用券"
       ],
@@ -506,6 +791,141 @@
       "notes": "夏季特定期間"
     },
     {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "VP:ペット対応ルーム",
+      "pet": true,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": null,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "スイート和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 49200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "available",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "デラックス和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-27",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
       "facility": "VIALA箱根湖悠",
       "date": "2026-08-27",
       "status": "few",
@@ -660,6 +1080,66 @@
       "notes": "夏季特定期間"
     },
     {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-28",
+      "status": "few",
+      "room": "VP:ペット対応ルーム",
+      "pet": true,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": null,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-28",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-28",
+      "status": "few",
+      "room": "スイート和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 49200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-28",
+      "status": "few",
+      "room": "スイート和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 7,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
       "facility": "VIALA箱根翡翠",
       "date": "2026-08-28",
       "status": "few",
@@ -695,27 +1175,12 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-08-29",
       "status": "few",
-      "room": "creekデラックス洋室/1F",
+      "room": "デラックス和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 2,
-      "maxCapacity": 4,
+      "maxCapacity": 5,
       "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "夏季特定期間"
-    },
-    {
-      "facility": "VIALA軽井沢 Retreat creek/garden",
-      "date": "2026-08-29",
-      "status": "few",
-      "room": "gardenデラックス平屋",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
+      "mutualPriceYen": 27500,
       "usableTickets": [
         "相互利用券"
       ],
@@ -770,12 +1235,117 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-08-30",
       "status": "few",
-      "room": "gardenファミリースイート2階建",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-30",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-30",
+      "status": "few",
+      "room": "スイート和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 49200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-30",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-30",
+      "status": "available",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-30",
+      "status": "few",
+      "room": "デラックス和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-30",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 6,
       "areaSqm": null,
-      "mutualPriceYen": 33600,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-30",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "相互利用券"
       ],
@@ -1120,12 +1690,12 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-08-31",
       "status": "few",
-      "room": "creekシグスイート洋101㎡/1F",
-      "pet": false,
+      "room": "VP:ペット対応ルーム",
+      "pet": true,
       "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": 101,
-      "mutualPriceYen": 39900,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": null,
       "usableTickets": [
         "相互利用券"
       ],
@@ -1135,12 +1705,42 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-08-31",
       "status": "few",
-      "room": "creekデラックス洋室/2F",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-31",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-31",
+      "status": "few",
+      "room": "スイート和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 5,
       "areaSqm": null,
-      "mutualPriceYen": 21200,
+      "mutualPriceYen": 49200,
       "usableTickets": [
         "相互利用券"
       ],
@@ -1150,12 +1750,57 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-08-31",
       "status": "few",
-      "room": "gardenデラックス平屋",
+      "room": "スイート和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 7,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-31",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-31",
+      "status": "available",
+      "room": "デラックス洋室(鷹峯側)",
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 4,
       "areaSqm": null,
-      "mutualPriceYen": 21200,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-31",
+      "status": "available",
+      "room": "デラックス和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
       "usableTickets": [
         "相互利用券"
       ],
@@ -1165,12 +1810,42 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-08-31",
       "status": "few",
-      "room": "gardenファミリースイート2階建",
+      "room": "デラックス和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 22200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-31",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 6,
       "areaSqm": null,
-      "mutualPriceYen": 33600,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "相互利用券"
+      ],
+      "notes": "夏季特定期間"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-08-31",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "相互利用券"
       ],
@@ -1561,12 +2236,12 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-09-01",
       "status": "few",
-      "room": "creekデラックス洋室/1F",
-      "pet": false,
+      "room": "VP:ペット対応ルーム",
+      "pet": true,
       "standardCapacity": 2,
       "maxCapacity": 4,
       "areaSqm": null,
-      "mutualPriceYen": 21200,
+      "mutualPriceYen": null,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -1577,12 +2252,140 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-09-01",
       "status": "few",
-      "room": "gardenファミリースイート2階建",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "few",
+      "room": "スイート和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 7,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "available",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "available",
+      "room": "デラックス和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "few",
+      "room": "デラックス和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 22200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 6,
       "areaSqm": null,
-      "mutualPriceYen": 33600,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-01",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -2025,12 +2828,12 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-09-02",
       "status": "few",
-      "room": "creekペット対応洋室/2F",
+      "room": "VP:ペット対応ルーム",
       "pet": true,
       "standardCapacity": 2,
-      "maxCapacity": 5,
+      "maxCapacity": 4,
       "areaSqm": null,
-      "mutualPriceYen": 21800,
+      "mutualPriceYen": null,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -2041,12 +2844,92 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-09-02",
       "status": "few",
-      "room": "gardenシグスイート2階建",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-02",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-02",
+      "status": "few",
+      "room": "スイート和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 7,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-02",
+      "status": "few",
+      "room": "デラックスユニバーサル(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 19900,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-02",
+      "status": "available",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-02",
+      "status": "available",
+      "room": "デラックス和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 5,
       "areaSqm": null,
-      "mutualPriceYen": 46900,
+      "mutualPriceYen": 27500,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -2057,12 +2940,44 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-09-02",
       "status": "few",
-      "room": "gardenファミリースイート2階建",
+      "room": "デラックス和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 22200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-02",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 6,
       "areaSqm": null,
-      "mutualPriceYen": 33600,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-02",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -2313,12 +3228,124 @@
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-09-03",
       "status": "few",
-      "room": "gardenファミリースイート2階建",
+      "room": "VP:ペット対応ルーム",
+      "pet": true,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": null,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-03",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-03",
+      "status": "few",
+      "room": "スイート和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 7,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-03",
+      "status": "few",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-03",
+      "status": "few",
+      "room": "デラックス和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-03",
+      "status": "few",
+      "room": "デラックス和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 22200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-03",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 6,
       "areaSqm": null,
-      "mutualPriceYen": 33600,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-03",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -2447,6 +3474,86 @@
       "maxCapacity": 4,
       "areaSqm": null,
       "mutualPriceYen": 19100,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-04",
+      "status": "few",
+      "room": "スイート洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 44600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-04",
+      "status": "few",
+      "room": "スイート洋室(比叡山側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 42600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-04",
+      "status": "few",
+      "room": "デラックス洋室(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 27500,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-04",
+      "status": "few",
+      "room": "ファミリー和洋(鷹峯側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 36200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-09-04",
+      "status": "few",
+      "room": "ファミリー和洋(比叡山側)",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
