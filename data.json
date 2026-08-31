@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/09/01 08:55",
+  "updatedAt": "2026/09/01 08:58",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -3088,21 +3088,6 @@
         "相互利用券"
       ],
       "notes": "通常日"
-    },
-    {
-      "facility": "VIALA箱根湖悠",
-      "date": "2026-09-22",
-      "status": "few",
-      "room": "デラックス和洋室 [5]標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "休前日"
     },
     {
       "facility": "VIALA軽井沢 Retreat creek/garden",
