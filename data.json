@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/09/26 16:49",
+  "updatedAt": "2026/09/26 16:51",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -2739,6 +2739,22 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 41900,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "ホーム欄参照"
+    },
+    {
+      "facility": "VIALA箱根翡翠",
+      "date": "2026-10-04",
+      "status": "few",
+      "room": "スイート和洋室(露天) [6] 標準 6名 / 最大 6名",
+      "pet": false,
+      "standardCapacity": 6,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 47500,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -10003,6 +10019,54 @@
       "notes": "通常日"
     },
     {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-24",
+      "status": "few",
+      "room": "デラックス洋室 [3] 標準 2名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-24",
+      "status": "few",
+      "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-24",
+      "status": "few",
+      "room": "ファミリー和洋室 [5] 標準 3名 / 最大 5名",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-11-24",
       "status": "available",
@@ -10316,6 +10380,38 @@
       "maxCapacity": 6,
       "areaSqm": null,
       "mutualPriceYen": 33600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-25",
+      "status": "few",
+      "room": "デラックス洋室 [3] 標準 2名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-25",
+      "status": "few",
+      "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -10636,6 +10732,70 @@
       "maxCapacity": 6,
       "areaSqm": null,
       "mutualPriceYen": 33600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-26",
+      "status": "few",
+      "room": "デラックス洋室 [3] 標準 2名 / 最大 3名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-26",
+      "status": "few",
+      "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-26",
+      "status": "few",
+      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 33600,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-11-26",
+      "status": "few",
+      "room": "ファミリー和洋室 [5] 標準 3名 / 最大 5名",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
