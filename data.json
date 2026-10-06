@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/10/07 02:16",
+  "updatedAt": "2026/10/07 06:44",
   "slots": [
     {
       "facility": "VIALAannex軽井沢",
@@ -2223,28 +2223,13 @@
     {
       "facility": "VIALAannex軽井沢",
       "date": "2026-10-17",
-      "status": "few",
+      "status": "available",
       "room": "デラックス洋室 [4] 標準 2名 / 最大 4名",
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 4,
       "areaSqm": null,
       "mutualPriceYen": 21200,
-      "usableTickets": [
-        "相互利用券"
-      ],
-      "notes": "土曜日／ホーム欄参照"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-10-17",
-      "status": "few",
-      "room": "ペット対応洋室 [5] 標準 2名 / 最大 5名",
-      "pet": true,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 19100,
       "usableTickets": [
         "相互利用券"
       ],
@@ -4833,22 +4818,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA箱根湖悠",
-      "date": "2026-11-08",
-      "status": "few",
-      "room": "ペット対応洋室 [4] 標準 2名 / 最大 4名",
-      "pet": true,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 19100,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALAannex軽井沢",
       "date": "2026-11-09",
       "status": "few",
@@ -6497,22 +6466,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-11-19",
-      "status": "few",
-      "room": "ファミリー和洋室 [5]標準 3名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 31000,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALAannex軽井沢",
       "date": "2026-11-19",
       "status": "available",
@@ -8033,22 +7986,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-11-30",
-      "status": "few",
-      "room": "デラックス和洋室 [4]標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALAannex軽井沢",
       "date": "2026-11-30",
       "status": "few",
@@ -8913,86 +8850,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-02",
-      "status": "few",
-      "room": "シグネチャースイート洋室 [3] 標準 2名 / 最大 3名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 41900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-02",
-      "status": "available",
-      "room": "デラックス洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-02",
-      "status": "few",
-      "room": "デラックス和洋室 [5] 標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-02",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-02",
-      "status": "few",
-      "room": "ペット対応洋室 [5] 標準 2名 / 最大 5名",
-      "pet": true,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 19100,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-12-02",
       "status": "available",
@@ -9313,70 +9170,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-03",
-      "status": "available",
-      "room": "デラックス洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-03",
-      "status": "few",
-      "room": "デラックス和洋室 [5] 標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-03",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-03",
-      "status": "few",
-      "room": "ペット対応洋室 [5] 標準 2名 / 最大 5名",
-      "pet": true,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 19100,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-12-03",
       "status": "available",
@@ -9665,38 +9458,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-04",
-      "status": "available",
-      "room": "デラックス洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-04",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-12-04",
       "status": "few",
@@ -9754,86 +9515,6 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 27000,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-06",
-      "status": "few",
-      "room": "シグネチャースイート和洋室 [5] 標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 41900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-06",
-      "status": "available",
-      "room": "デラックス洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-06",
-      "status": "few",
-      "room": "デラックス和洋室 [5] 標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-06",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-06",
-      "status": "few",
-      "room": "ペット対応洋室 [5] 標準 2名 / 最大 5名",
-      "pet": true,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 19100,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -10074,54 +9755,6 @@
       "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 31000,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-07",
-      "status": "few",
-      "room": "シグネチャースイート洋室 [3] 標準 2名 / 最大 3名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 41900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-07",
-      "status": "available",
-      "room": "デラックス洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALAannex軽井沢",
-      "date": "2026-12-07",
-      "status": "few",
-      "room": "デラックス和洋室 [5] 標準 2名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
