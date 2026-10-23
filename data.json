@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/10/24 03:27",
+  "updatedAt": "2026/10/24 07:18",
   "slots": [
     {
       "facility": "VIALA annex軽井沢",
@@ -15,22 +15,6 @@
         "相互利用券"
       ],
       "notes": "土曜日／ホーム欄参照"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-10-25",
-      "status": "few",
-      "room": "デラックス洋室 [3] 標準 2名 / 最大 3名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "ホーム欄参照"
     },
     {
       "facility": "VIALA軽井沢 Retreat creek/garden",
@@ -154,38 +138,6 @@
       "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 19100,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "ホーム欄参照"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-10-26",
-      "status": "few",
-      "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "ホーム欄参照"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-10-26",
-      "status": "few",
-      "room": "ファミリー和洋室 [5] 標準 3名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -593,22 +545,6 @@
       "notes": "ホーム欄参照"
     },
     {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-10-27",
-      "status": "few",
-      "room": "シグネチャースイート和洋室 [3] 標準 2名 / 最大 3名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 40900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "ホーム欄参照"
-    },
-    {
       "facility": "VIALA鬼怒川渓翠",
       "date": "2026-10-27",
       "status": "few",
@@ -850,22 +786,6 @@
     },
     {
       "facility": "VIALA annex軽井沢",
-      "date": "2026-10-28",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "ホーム欄参照"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
       "date": "2026-10-28",
       "status": "few",
       "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
@@ -1162,38 +1082,6 @@
       "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "ホーム欄参照"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-10-29",
-      "status": "few",
-      "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "ホーム欄参照"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-10-29",
-      "status": "few",
-      "room": "ファミリー和洋室 [5] 標準 3名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -1882,22 +1770,6 @@
       "notes": "通常日"
     },
     {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-11-05",
-      "status": "few",
-      "room": "ペット対応洋室 [3･4] 標準 2名 / 最大 4名",
-      "pet": true,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 19100,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-11-05",
       "status": "few",
@@ -2019,22 +1891,6 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 18300,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-11-06",
-      "status": "few",
-      "room": "ファミリー和洋室 [5] 標準 3名 / 最大 5名",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 31000,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -5469,22 +5325,6 @@
       "date": "2026-12-06",
       "status": "few",
       "room": "デラックス洋室 [4]標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA鬼怒川渓翠",
-      "date": "2026-12-06",
-      "status": "few",
-      "room": "デラックス洋室 [3-4]標準 2名 / 最大 4名",
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 4,
@@ -9228,44 +9068,12 @@
       "facility": "VIALA annex熱海伊豆山",
       "date": "2026-12-23",
       "status": "few",
-      "room": "デラックス和洋室 [4] 標準 2名 / 最大 4名",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 21200,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-12-23",
-      "status": "few",
       "room": "ファミリースイート和洋室 [6] 標準 3名 / 最大 6名",
       "pet": false,
       "standardCapacity": 3,
       "maxCapacity": 6,
       "areaSqm": null,
       "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA annex熱海伊豆山",
-      "date": "2026-12-23",
-      "status": "few",
-      "room": "ペット対応洋室 [3･4] 標準 2名 / 最大 4名",
-      "pet": true,
-      "standardCapacity": 2,
-      "maxCapacity": 4,
-      "areaSqm": null,
-      "mutualPriceYen": 19100,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
