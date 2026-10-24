@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/10/25 3:13",
+  "updatedAt": "2026/10/25 5:56",
   "homeFacility": "南紀田辺ホーム券",
   "homeTickets": 4,
   "mutualTickets": 1,
@@ -1502,22 +1502,6 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 41900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-11-01",
-      "status": "few",
-      "room": "スタンダード和洋室",
-      "pet": false,
-      "standardCapacity": 5,
-      "maxCapacity": 5,
-      "areaSqm": null,
-      "mutualPriceYen": 23900,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
