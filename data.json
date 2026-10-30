@@ -1,41 +1,9 @@
 {
-  "updatedAt": "2026/10/30 17:44",
+  "updatedAt": "2026/10/31 0:59",
   "homeFacility": "南紀田辺ホーム券",
   "homeTickets": 4,
   "mutualTickets": 1,
   "slots": [
-    {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-11-30",
-      "status": "few",
-      "room": "スイート和洋室(露天)",
-      "pet": false,
-      "standardCapacity": 6,
-      "maxCapacity": 6,
-      "areaSqm": null,
-      "mutualPriceYen": 47500,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA軽井沢 Retreat creek/garden",
-      "date": "2026-12-01",
-      "status": "few",
-      "room": "creekシグスイート洋サウナ付/1F",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 46900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
     {
       "facility": "VIALA annex軽井沢",
       "date": "2026-12-03",
@@ -625,6 +593,22 @@
       "notes": "通常日"
     },
     {
+      "facility": "VIALA annex軽井沢",
+      "date": "2026-12-08",
+      "status": "few",
+      "room": "デラックス和洋室",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
       "facility": "VIALA annex熱海伊豆山",
       "date": "2026-12-08",
       "status": "few",
@@ -996,6 +980,38 @@
       "facility": "VIALA annex軽井沢",
       "date": "2026-12-10",
       "status": "few",
+      "room": "シグネチャースイート和洋室",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 41900,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex軽井沢",
+      "date": "2026-12-10",
+      "status": "few",
+      "room": "シグネチャースイート和洋室",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 6,
+      "areaSqm": null,
+      "mutualPriceYen": 41900,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex軽井沢",
+      "date": "2026-12-10",
+      "status": "few",
       "room": "デラックス洋室",
       "pet": false,
       "standardCapacity": 2,
@@ -1027,7 +1043,7 @@
     {
       "facility": "VIALA annex軽井沢",
       "date": "2026-12-10",
-      "status": "few",
+      "status": "available",
       "room": "ファミリースイート和洋室",
       "pet": false,
       "standardCapacity": 3,
@@ -1050,6 +1066,38 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 40900,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA annex熱海伊豆山",
+      "date": "2026-12-10",
+      "status": "few",
+      "room": "ファミリー和洋室",
+      "pet": false,
+      "standardCapacity": 3,
+      "maxCapacity": 5,
+      "areaSqm": null,
+      "mutualPriceYen": 31000,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-12-10",
+      "status": "few",
+      "room": "creekシグスイート洋104㎡/2F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 3,
+      "areaSqm": 104,
+      "mutualPriceYen": 39900,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -1080,6 +1128,22 @@
       "pet": false,
       "standardCapacity": 2,
       "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA軽井沢 Retreat creek/garden",
+      "date": "2026-12-10",
+      "status": "few",
+      "room": "creekデラックス洋室/2F",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 21200,
       "usableTickets": [
