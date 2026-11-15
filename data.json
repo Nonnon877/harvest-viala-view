@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/11/16 2:48",
+  "updatedAt": "2026/11/16 7:56",
   "homeFacility": "南紀田辺ホーム券",
   "homeTickets": 4,
   "mutualTickets": 1,
@@ -366,22 +366,6 @@
       "maxCapacity": 3,
       "areaSqm": null,
       "mutualPriceYen": 18300,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA annex軽井沢",
-      "date": "2026-11-17",
-      "status": "few",
-      "room": "シグネチャースイート洋室",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 41900,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
@@ -1029,6 +1013,22 @@
       "notes": "通常日"
     },
     {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-11-19",
+      "status": "few",
+      "room": "シグネチャースイート洋室 128㎡",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": 128,
+      "mutualPriceYen": 49200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
       "facility": "VIALA軽井沢 Retreat creek/garden",
       "date": "2026-11-19",
       "status": "few",
@@ -1229,22 +1229,6 @@
       "standardCapacity": 2,
       "maxCapacity": 3,
       "areaSqm": 101,
-      "mutualPriceYen": 39900,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA軽井沢 Retreat creek/garden",
-      "date": "2026-11-20",
-      "status": "few",
-      "room": "creekシグスイート洋113㎡/1F",
-      "pet": false,
-      "standardCapacity": 2,
-      "maxCapacity": 3,
-      "areaSqm": 113,
       "mutualPriceYen": 39900,
       "usableTickets": [
         "南紀田辺ホーム券",
@@ -2622,22 +2606,6 @@
       "maxCapacity": 6,
       "areaSqm": null,
       "mutualPriceYen": 33600,
-      "usableTickets": [
-        "南紀田辺ホーム券",
-        "相互利用券"
-      ],
-      "notes": "通常日"
-    },
-    {
-      "facility": "VIALA箱根翡翠",
-      "date": "2026-11-29",
-      "status": "few",
-      "room": "ユニバーサル洋室",
-      "pet": false,
-      "standardCapacity": 3,
-      "maxCapacity": 3,
-      "areaSqm": null,
-      "mutualPriceYen": 18300,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
