@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/11/22 4:24",
+  "updatedAt": "2026/11/22 9:23",
   "homeFacility": "南紀田辺ホーム券",
   "homeTickets": 4,
   "mutualTickets": 1,
@@ -2013,6 +2013,38 @@
       "maxCapacity": 5,
       "areaSqm": null,
       "mutualPriceYen": 31000,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-12-01",
+      "status": "few",
+      "room": "シグネチャースイート洋室 128㎡",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 5,
+      "areaSqm": 128,
+      "mutualPriceYen": 49200,
+      "usableTickets": [
+        "南紀田辺ホーム券",
+        "相互利用券"
+      ],
+      "notes": "通常日"
+    },
+    {
+      "facility": "VIALA鬼怒川渓翠",
+      "date": "2026-12-01",
+      "status": "available",
+      "room": "デラックス洋室",
+      "pet": false,
+      "standardCapacity": 2,
+      "maxCapacity": 4,
+      "areaSqm": null,
+      "mutualPriceYen": 21200,
       "usableTickets": [
         "南紀田辺ホーム券",
         "相互利用券"
